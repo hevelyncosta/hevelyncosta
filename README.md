@@ -8,8 +8,8 @@ Hi, I'm Hévelyn. Currently, I'm pursuing an undergraduate degree in *Informatio
 - Requirements Engineering
 
 #### 🌱 Skills in progress
-- React.js
-- Node.js
+- Java
+- SQL Server
 
 <!--
 Emojis: 🔭 🌱 💬 ⚡ 🙋🏻‍♀️ 🧩 🔥 🐣 👋 🏆 📚 💡 🎨
