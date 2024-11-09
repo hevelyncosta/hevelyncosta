@@ -8,8 +8,9 @@ Hi, I'm Hévelyn. Currently, I'm pursuing an undergraduate degree in *Informatio
 - Requirements Engineering
 
 #### 🌱 Skills in progress
-- Java
-- SQL Server
+- CSharp
+- .NET
+- PL/SQL
 
 <!--
 Emojis: 🔭 🌱 💬 ⚡ 🙋🏻‍♀️ 🧩 🔥 🐣 👋 🏆 📚 💡 🎨
